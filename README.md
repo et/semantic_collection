@@ -10,7 +10,7 @@ programmer to accept a particular markup.
 ```ruby
 table_for @users do
   column :name
-  column :status
+  column :statu
 end
 ```
 
